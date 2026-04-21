@@ -1,0 +1,10 @@
+target/
+*.class
+*.jar
+*.so
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+.factorypath
